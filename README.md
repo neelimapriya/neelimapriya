@@ -23,7 +23,7 @@ Meet Nelima Sultana, a gentle artisan in the world of frontend development, deli
 
 
 
-| [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neelimapriya&theme=aura)](https://github.com/neelimapriya/)  | [![Neelima's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neelimapriya&theme=aura)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neelimapriya&theme=aura) |
+| [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neelimapriya&theme=aura)](https://github.com/neelimapriya/)  | [![Neelima's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neelimapriya&theme=aura)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neelimapriya&theme=aura) | 
 | ------------- | ------------- |
 
 
