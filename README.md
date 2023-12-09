@@ -1,8 +1,13 @@
 
+
+<img alt="Banner" src="./banner/github-banner.png" />
+
+
+
 ## Hello, Visitor! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-Meet Nelima Sultana, a gentle artisan in the world of frontend development, delicately weaving code into beautiful digital tapestries that enchant the user's experience with a touch of grace.
+Meet Nelima Sultana, a gentle artisan in the world of MERN stack development, delicately weaving code into beautiful digital tapestries that enchant the user's experience with a touch of grace.
 
 
 ## Bio
