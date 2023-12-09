@@ -12,3 +12,19 @@ Meet Nelima Sultana, a gentle artisan in the world of frontend development, deli
 - 📫 Contact me: [Email](mailto:neelimasultana6@gmail.com/) [Linkedin](www.linkedin.com/in/neelima-sultana-7b4280298)
 
 
+## Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,figma,github,tailwind,mongodb,react,express,nodejs," />
+  </a>
+</p>
+
+## Overview
+
+
+
+| [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=neelimapriya&theme=aura)](https://github.com/neelimapriya/)  | [![Neelima's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=neelimapriya&theme=aura)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neelimapriya&theme=aura) |
+| ------------- | ------------- |
+
+
+<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neelimapriya&theme=aura" alt="neelimapriya" /></p>
