@@ -14,7 +14,7 @@ Meet Nelima Sultana, a gentle artisan in the world of MERN stack development, de
 - ✨ I'm expert in:  `.html`, `.css`, `.js `
 - 🌱 I’m currently learning: **Next.js**
 - 💬 Send your thoughts on:  **Web Design** | **Development**
-- 📫 Contact me: [Email](mailto:neelimasultana6@gmail.com/) [Linkedin](www.linkedin.com/in/nelima-sultana-7b4280298)
+- 📫 Contact me: [Email](mailto:neelimasultana6@gmail.com/) 
 
 
 ## Skills
